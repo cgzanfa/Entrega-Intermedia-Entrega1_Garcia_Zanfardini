@@ -6,7 +6,9 @@
 ---
 *Te dejamos a continuacion una breve guia para que puedas acceder a las opciones que estas buscando.*
 
-*_Lo podras hacer facilmente seleccionando en la barra de titulos:*
+**URL http://127.0.0.1:8000/farm/**
+
+*_Desde alli te podras desplazar facilmente seleccionando en la barra de titulos:*
 
 | Home | Clients | Fruits | Vegetables | Search |
 
