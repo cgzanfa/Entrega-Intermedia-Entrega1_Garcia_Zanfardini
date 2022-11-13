@@ -1,0 +1,16 @@
+{% extends 'appfarm/base.html' %}
+
+{% block contenido %}
+
+<ul>
+    {% for vegetal in vegetales %}
+    
+    <li> Nombre: {{vegetal.vegetal}} - Precio: {{vegetal.precio}} - N° articulo: {{vegetal.nro_articulo}}</li>
+
+    {% endfor %}
+
+</ul>
+
+
+
+{% endblock %}
