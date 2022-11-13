@@ -1,6 +1,6 @@
 # Bienvenid@ a Proyect Farm
 ---
-*Proyect Farm surge de la necesidad de contar con una aplicacion que te permita administrar tu negocio, ya sea para crear y buscar productos. Y podras hacerlo de forma agil y precisa.*  
+*Proyect Farm surge de la necesidad de contar con una aplicacion que te permita administrar tu negocio, ya sea tanto para crear clientes como asi tambien crear y buscar productos. Y podras hacerlo de forma agil y precisa.*  
 
 ## Como utilizarla? ## 
 ---
