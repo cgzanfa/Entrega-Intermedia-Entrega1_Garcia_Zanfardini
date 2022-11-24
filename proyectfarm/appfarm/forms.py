@@ -20,3 +20,4 @@ class VegetalFormulario(forms.Form):
     vegetal = forms.CharField()
     precio = forms.IntegerField()
     nro_articulo = forms.IntegerField()
+
