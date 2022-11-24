@@ -6,7 +6,7 @@
 ---
 *Te dejamos a continuacion una breve guia para que puedas acceder a las opciones que estas buscando.*
 
-*_Lo podras hacer facilmente seleccionando:*
+*_Lo podras hacer facilmente seleccionando los titulos:*
 | Home | Clients | Fruits | Vegetables | Search |
 
 
